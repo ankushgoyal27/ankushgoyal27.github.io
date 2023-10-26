@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f86b0581.css",
+    "main.js": "/static/js/main.21f5b337.js",
+    "static/js/787.5baaf0c2.chunk.js": "/static/js/787.5baaf0c2.chunk.js",
+    "static/media/vision.png": "/static/media/vision.b134dcebb09aebe77057.png",
+    "static/media/cocacola.png": "/static/media/cocacola.09bbf5be1c527bc074fe.png",
+    "static/media/about-us.png": "/static/media/about-us.33c7f10c3f2113fadcf4.png",
+    "static/media/business-solution.png": "/static/media/business-solution.33c7f10c3f2113fadcf4.png",
+    "static/media/contract.png": "/static/media/contract.33c7f10c3f2113fadcf4.png",
+    "static/media/our-services.png": "/static/media/our-services.a1d42e61c8e65d3f957d.png",
+    "static/media/investment-advisory.png": "/static/media/investment-advisory.393cfb1de3faca269f3e.png",
+    "static/media/our-team.png": "/static/media/our-team.7c96fe19f7b3f4bdef64.png",
+    "static/media/contact-us.png": "/static/media/contact-us.c77c72f22f364121bd69.png",
+    "static/media/computer.png": "/static/media/computer.4feab540bb6ef3491a0b.png",
+    "static/media/business-advisory.png": "/static/media/business-advisory.643637602e89f454d983.png",
+    "static/media/branding.png": "/static/media/branding.0e05953cf15c7550e1e7.png",
+    "static/media/accounting.png": "/static/media/accounting.a9d5cb9912d08e98e1ac.png",
+    "static/media/businessStrategy.png": "/static/media/businessStrategy.740ad691a50cc8805a94.png",
+    "static/media/legalAndRegulatory.png": "/static/media/legalAndRegulatory.72d24b5d88e314bd12c6.png",
+    "index.html": "/index.html",
+    "main.f86b0581.css.map": "/static/css/main.f86b0581.css.map",
+    "main.21f5b337.js.map": "/static/js/main.21f5b337.js.map",
+    "787.5baaf0c2.chunk.js.map": "/static/js/787.5baaf0c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f86b0581.css",
+    "static/js/main.21f5b337.js"
+  ]
+}
